@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.mp4
+*.avi
+*.mov
+.DS_Store
+.env
+venv/
+.idea/
+.vscode/
+*.h5
+*.ckpt
