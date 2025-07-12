@@ -44,14 +44,6 @@ git clone https://github.com/LRAJAS/Opencv-gesture-control-repo.git
 cd Opencv-gesture-control-repo
 
 ---
-## 🧠 Tech Stack
-
-- **OpenCV**
-- **MediaPipe**
-- **PyAutoGUI** (for mouse control)
-- **NumPy**
-- **pyttsx3** (for speech synthesis)
-- **Googletrans** (translation support)
 
 
 
